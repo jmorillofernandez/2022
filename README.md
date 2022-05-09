@@ -14,7 +14,7 @@ Product	Price	quantity
 Laptop	3.33	2
 Mouse	10.33	
 
-[Vscode Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png)
 [Faztweb.com](https://www.faztweb.com)
 
 | Product       | Price         |quantity   |
