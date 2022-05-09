@@ -29,5 +29,4 @@ Mouse	10.33
 System.out.println("Hello World");
 System.out.println("Hello World");
 ```
-embedyoutube(https://www.youtube.com/watch?v=ULHaHgXunUg)
-
+![Cuadro de Mando](https://placerdigital.net/pdblog/wp-content/uploads/2012/07/gif-animado-2.gif)
