@@ -22,11 +22,19 @@ Mouse	10.33
 | Laptop        | 3.33          | 2         |
 | Mouse         | 10.33         | 1         |
 
-```html
-<h1>Hello World</h1>
-```
+
+## Codigo java:
+
 ```java
 System.out.println("Hello World");
 System.out.println("Hello World");
 ```
+## Codigo javascript:
+
+```javascript
+console.log('hello world')
+
+const test = (str) => str + 'test';
+```
+
 ![Cuadro de Mando](https://placerdigital.net/pdblog/wp-content/uploads/2012/07/gif-animado-2.gif)
