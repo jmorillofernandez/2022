@@ -13,6 +13,5 @@ const test = (str) => str + 'test';
 Product	Price	quantity
 Laptop	3.33	2
 Mouse	10.33	1
- task1
-[] task2
-[] task3
+ <!-- IMAGES -->
+<!-- ![Vscode Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png) -->
